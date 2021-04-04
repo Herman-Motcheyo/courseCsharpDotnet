@@ -1,0 +1,10 @@
+C:\Users\TCHENEGHON HERMAN\Documents\Visual Studio 2019 Project\TransportApp\obj\Debug\TransportApp.csprojAssemblyReference.cache
+C:\Users\TCHENEGHON HERMAN\Documents\Visual Studio 2019 Project\TransportApp\obj\Debug\TransportApp.Properties.Resources.resources
+C:\Users\TCHENEGHON HERMAN\Documents\Visual Studio 2019 Project\TransportApp\obj\Debug\TransportApp.csproj.GenerateResource.cache
+C:\Users\TCHENEGHON HERMAN\Documents\Visual Studio 2019 Project\TransportApp\obj\Debug\TransportApp.csproj.CoreCompileInputs.cache
+C:\Users\TCHENEGHON HERMAN\Documents\Visual Studio 2019 Project\TransportApp\bin\Debug\TransportApp.exe.config
+C:\Users\TCHENEGHON HERMAN\Documents\Visual Studio 2019 Project\TransportApp\bin\Debug\TransportApp.exe
+C:\Users\TCHENEGHON HERMAN\Documents\Visual Studio 2019 Project\TransportApp\bin\Debug\TransportApp.pdb
+C:\Users\TCHENEGHON HERMAN\Documents\Visual Studio 2019 Project\TransportApp\obj\Debug\TransportApp.exe
+C:\Users\TCHENEGHON HERMAN\Documents\Visual Studio 2019 Project\TransportApp\obj\Debug\TransportApp.pdb
+C:\Users\TCHENEGHON HERMAN\Documents\Visual Studio 2019 Project\TransportApp\obj\Debug\TransportApp.Form1.resources

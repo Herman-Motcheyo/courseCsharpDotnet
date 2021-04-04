@@ -1,0 +1,27 @@
+﻿
+@model LearnDotnet.ViewModels.RandomMovieViewModel
+@{
+    ViewBag.Title = "Random";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+@{ 
+    var className = Model.Customers.Count > 0 ? "sucess" : null ;
+}
+<h2 @className>@Model.Movie.Name</h2>
+@{ 
+    if(Model.Customers.Count == 0)
+    {
+        <p class="bg-warning"> No one in List</p>
+    }else
+    {
+        <ul>
+            @foreach (var customer in Model.Customers)
+            {
+                <li class="bg-primary"> @customer.Name</li>
+            }
+        </ul>
+    }
+}
+
+

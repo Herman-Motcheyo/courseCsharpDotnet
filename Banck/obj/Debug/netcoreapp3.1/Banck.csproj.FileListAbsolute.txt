@@ -1,0 +1,13 @@
+C:\Users\TCHENEGHON HERMAN\Documents\Visual Studio 2019 Project\Banck\bin\Debug\netcoreapp3.1\Banck.exe
+C:\Users\TCHENEGHON HERMAN\Documents\Visual Studio 2019 Project\Banck\bin\Debug\netcoreapp3.1\Banck.deps.json
+C:\Users\TCHENEGHON HERMAN\Documents\Visual Studio 2019 Project\Banck\bin\Debug\netcoreapp3.1\Banck.runtimeconfig.json
+C:\Users\TCHENEGHON HERMAN\Documents\Visual Studio 2019 Project\Banck\bin\Debug\netcoreapp3.1\Banck.runtimeconfig.dev.json
+C:\Users\TCHENEGHON HERMAN\Documents\Visual Studio 2019 Project\Banck\bin\Debug\netcoreapp3.1\Banck.dll
+C:\Users\TCHENEGHON HERMAN\Documents\Visual Studio 2019 Project\Banck\bin\Debug\netcoreapp3.1\Banck.pdb
+C:\Users\TCHENEGHON HERMAN\Documents\Visual Studio 2019 Project\Banck\obj\Debug\netcoreapp3.1\Banck.csprojAssemblyReference.cache
+C:\Users\TCHENEGHON HERMAN\Documents\Visual Studio 2019 Project\Banck\obj\Debug\netcoreapp3.1\Banck.AssemblyInfoInputs.cache
+C:\Users\TCHENEGHON HERMAN\Documents\Visual Studio 2019 Project\Banck\obj\Debug\netcoreapp3.1\Banck.AssemblyInfo.cs
+C:\Users\TCHENEGHON HERMAN\Documents\Visual Studio 2019 Project\Banck\obj\Debug\netcoreapp3.1\Banck.csproj.CoreCompileInputs.cache
+C:\Users\TCHENEGHON HERMAN\Documents\Visual Studio 2019 Project\Banck\obj\Debug\netcoreapp3.1\Banck.dll
+C:\Users\TCHENEGHON HERMAN\Documents\Visual Studio 2019 Project\Banck\obj\Debug\netcoreapp3.1\Banck.pdb
+C:\Users\TCHENEGHON HERMAN\Documents\Visual Studio 2019 Project\Banck\obj\Debug\netcoreapp3.1\Banck.genruntimeconfig.cache
